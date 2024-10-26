@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ajinoufi.github.io/sitemap_index.ajinoufi
